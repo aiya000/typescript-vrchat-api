@@ -1,4 +1,5 @@
-## NOTE
+# :diamond_shape_with_a_dot_inside: TypeScript VRChat API :diamond_shape_with_a_dot_inside:
 
-An eslint rule 'camelcase' is ignored for some properties.  
-Because these are the VRChat API spec.
+Currently this project is wip.
+
+Please use `git submodule add` directly to use this.
